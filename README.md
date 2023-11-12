@@ -1,2 +1,2 @@
 # CorvetteHTMLWebpage
-Using HTML, I scripted a corvette web page with several links, an image file, along with an embedded video.
+Using HTML I scripted a webpage using a table design for a header with navigation links, media jpg file, while including an embedded video from youtube within the table. I included a footer at the bottom of the page as well with a friendly message. The two linked html sites from the webpage are not corvette related. Just two html practice pages I used playing around with some of the html features.
